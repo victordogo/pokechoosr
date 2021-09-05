@@ -1,5 +1,5 @@
 Package: pokechoosr
-Title: A (somewhat) fun and statistical way to choose your pokemon teams
+Title: A (somewhat) fun and statistical way to choose your pokemon teams in R
 Version: 0.0.0.1
 Authors@R: 
     person(given = "Victor",
